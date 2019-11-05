@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  crontabchart:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-11-05T19:20:05.34493152+05:30"
+    description: A Helm chart for Kubernetes
+    digest: f90e630508c81f2e8ca0ba331a975c310039c70f81575c2bb8c7799c131a3c3c
+    name: crontabchart
+    urls:
+    - https://github.com/niharikabhavaraju/helmexample/crontabchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-11-05T19:20:05.33498078+05:30"
